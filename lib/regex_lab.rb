@@ -11,7 +11,7 @@ end
 def words_starting_with_un_and_ending_with_ing(text)
   # array_form = text.split(" ")
   # array_form.collect {|word| word.scan(/^un.*ing$/)}
-  text.scan(/[\s^]un.*ing[\s$]/)
+  text.scan(/un[a-zA-Z]*ing/)
 end
 
 def words_five_letters_long(text)
