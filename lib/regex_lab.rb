@@ -61,6 +61,6 @@ def valid_phone_number?(phone)
   end
 end
 
-puts words_starting_with_un_and_ending_with_ing("unassuming ambiguous understanding pomp circumstance uninteresting uncompromising grouchy corollary")
+# puts words_starting_with_un_and_ending_with_ing("unassuming ambiguous understanding pomp circumstance uninteresting uncompromising grouchy corollary")
 # puts words_five_letters_long("extreme briny crepe parking snaps grouping snafu round dog be fork spoon")
 # puts first_word_capitalized_and_ends_with_punctuation?("I stepped on a Corn Flake, now I'm a cereal killer.")
